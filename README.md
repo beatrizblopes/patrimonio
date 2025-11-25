@@ -51,7 +51,7 @@ Uso de linguagens de programação
 | 3    | Alta       | Como gestora(o), quero filtrar os paises que mais compram no Vale do Paraíba                                                | 5          | 2      |
 | 4    | Alta       | Como gestora(o), quero visualizar os padroês de Sazonalidade                                                                                                                                                  | 4        | 2    |
 | 5    | Alta       | Como gestora(o), quero acrescentar Indicadores de Exportação e Importação     | 2          | 3      |
-| 6    | Alta       |Como gestora(o), quero visualizar comparação entre cidades do Vale do Paraíba   | 8          | 3     |
+| 6    | Alta       | Como gestora(o), quero visualizar comparação entre cidades do Vale do Paraíba   | 8          | 3     |
 
 # Funcionalidades e Demonstrações das Sprints
 
