@@ -1,6 +1,6 @@
 # Aprendizado por Projeto Integrado (API) - Fatec São José dos Campos
 
-Bem vindo ao template para os projetos de curso de graduação em Gestão da Produção Industrial, baseado na metodologia Ágil SCRUM, buscando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+Bem vindo ao template para os projetos de curso de graduação em Gestão da Produção Industrial, baseado na metodologia Ágil SCRUM, buscando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos pela Fatec de São José dos Campos.
 
 ---
 
