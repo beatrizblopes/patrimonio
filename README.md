@@ -100,7 +100,7 @@ Revisão com professor → Ajustes.
 | 01                |  06/10/2025  | concluído  | (https://app.powerbi.com/groups/me/reports/57d97d03-0c41-4bac-b8ac-de60fb6ba19f/d67721797c74e535410f?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi&bookmarkGuid=b98e884c-d8dc-47bd-be31-08280dec8df8)  |
 | 02                | 10/11/2025 | concluído  | (https://app.powerbi.com/groups/me/reports/57d97d03-0c41-4bac-b8ac-de60fb6ba19f/d67721797c74e535410f?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi&bookmarkGuid=b98e884c-d8dc-47bd-be31-08280dec8df8)  |
 | 03                | 24/11/2025 | concluído | (https://app.powerbi.com/groups/me/reports/57d97d03-0c41-4bac-b8ac-de60fb6ba19f/d67721797c74e535410f?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&experience=power-bi&bookmarkGuid=b98e884c-d8dc-47bd-be31-08280dec8df8)  |
-| Feira de Soluções | 04/12/2025 | a fazer  |   |
+| Feira de Soluções | 04/12/2025 | concluído  | (https://fatecspgov-my.sharepoint.com/:p:/r/personal/beatriz_lopes14_fatec_sp_gov_br/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Be84e3cc9-7046-4c19-a2c6-56399a882dce%7D&wdOrigin=TEAMS-WEB.p2p_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1764330532646&web=1)  |
 
 
 ### Tecnológias Específicas/Apoio
