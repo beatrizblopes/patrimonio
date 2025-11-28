@@ -2,6 +2,9 @@
 
 Bem vindo ao template para os projetos de curso de graduação em Gestão da Produção Industrial, baseado na metodologia Ágil SCRUM, buscando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos pela Fatec de São José dos Campos.
 
+Este repositório apresenta um projeto de análise da cadeia produtiva do setor automotivo, utilizando dados públicos do Comex Stat:
+(https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta)
+
 ---
 
 # Índice
@@ -23,7 +26,7 @@ Bem vindo ao template para os projetos de curso de graduação em Gestão da Pro
 
    
 ### # Objetivo do Projeto
-O projeto tem como objetivo analisar os fluxos de exportação e importação do município de São Paulo, identificando indicadores de desempenho relacionados aos processos produtivos e logísticos. Para isso, será desenvolvido um portal de consulta com os dados tratados, que permita a visualização clara das informações e possa ser apresentado em eventos acadêmicos, feiras tecnológicas e bancas de avaliação.
+O projeto tem como objetivo analisar os fluxos de exportação e importação do município de São Paulo, identificando indicadores de desempenho relacionados aos processos produtivos e logísticos. Para isso, foi desenvolvido um portal de consulta com os dados tratados, que permita a visualização clara das informações e possa ser apresentado em eventos acadêmicos, feiras tecnológicas e bancas de avaliação.
 
 Levantamento e tratamento de dados
 
@@ -46,12 +49,27 @@ Uso de linguagens de programação
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como gestora (o), quero tratar realizar o tratamento de dados para visualizar sua modelagem                                                | 5          | 1      |
-| 2    | Alta       | Como gestora(o), quero visualizar o raking no Vale do Paraíba e filtrar por mês e ano                                                             | 8          | 1      |
-| 3    | Alta       | Como gestora(o), quero filtrar os paises que mais compram no Vale do Paraíba                                                | 5          | 2      |
-| 4    | Alta       | Como gestora(o), quero visualizar os padroês de Sazonalidade                                                                                                                                                  | 4        | 2    |
-| 5    | Alta       | Como gestora(o), quero acrescentar Indicadores de Exportação e Importação     | 2          | 3      |
-| 6    | Alta       | Como gestora(o), quero visualizar comparação entre cidades do Vale do Paraíba   | 8          | 3     |
+| 1    | Alta       | Como analista de mercado, quero acessar e baixar dados do Comex Stat via Colab para iniciar as análises                                               | 5h          | 1      |
+| 2    | Alta       | Como analista de mercado, quero os dados tratados para avaliação do cliente                                                                           | 8h          | 1      |
+| 3    | Alta       | Como supervisor, quero um dashboard inicial no Power BI com dados extraídos do Colab                                                                  | 5h          | 2      |
+| 4    | Médio      | Como coordenador de operações, quero o dashboard com melhor visualização para entendimento claro                                                      | 4           | 2    |                            
+| 5    | Média       | Como coordenador de operações, quero refazer o Power BI para melhorar estrutura e conteúdo                                                           | 2h          | 3      |
+| 6    | Baixa       | Como coordenador de projeto, quero definir o fluxo de atualização dos dados (diário/semanal/mensal) para manter o dashboard atualizado               | 2h          | 2      |
+| 7    | Alta        | Como engenheiro de dados, quero automatizar a coleta via API do Comex Stat, reduzindo retrabalho manual                                              | 7h          | 2      |
+| 8    | Alta        | Como analista de qualidade, quero aplicar validações nos dados para evitar duplicidades e inconsistências                                            | 6h          | 2      |
+| 9    | Baixa       | Como gerente de projeto, quero documentar o plano das sprints para acompanhar o progresso                                                            | 6h          | 2      |
+| 10   | Alta        | Como analista de mercado, quero criar indicadores comparativos de exportação e importação no dashboard                                               | 5h          | 2      |
+| 11   | Média       | Como supervisor, quero padronizar relatórios de desempenho para reuniões de acompanhamento                                                           | 2h          | 2      |
+| 12   | Média       | Como coordenador de operações, quero refazer o Power BI para melhorar estrutura e conteúdo                                                           | 2h          | 3      |
+| 13   | Média       | Como coordenador de operações, quero refazer o Power BI para melhorar estrutura e conteúdo                                                           | 2h          | 3      |
+| 14   | Média       | Como coordenador de operações, quero refazer o Power BI para melhorar estrutura e conteúdo                                                           | 2h          | 3      |
+| 15   | Alta        | Como analista de mercado, quero mostrar no Power BI os países mais importadores e produtos mais exportados                                           | 2h          | 3      |   
+| 16   | Média       | Como gerente de projeto, quero planejar linhas de tendência para análises futuras                                                                    | 3h          | 3      |
+| 17   | Alta        | Como analista de mercado, quero relatar no Word todo o trajeto e desenvolvimento do projeto                                                          | 5h          | 3      |
+| 18   | Alta        | Como supervisor, quero desenvolver slides com telas do Power BI e backlog para apresentação                                                          | 3h          | 3      |
+| 19   | Alta        | Como supervisor, quero relatar dados relevantes sobre o mercado automotivo                                                                           | 2h          | 3      |
+| 20   | Média       | Como gerente de projeto, quero aplicar produtos fabricados e produção mensal no dashboard                                                            | 3h          | 3      |
+| 21   | Baixa       | Como gerente de projeto, quero apresentar o projeto final ao cliente                                                                                 | 2h          | 3      |
 
 # Funcionalidades e Demonstrações das Sprints
 
